@@ -2,7 +2,6 @@
 
 import math
 import random
-import pdb
 
 punc_list = [u'，', u'。', u'！', u'？']
 all_words = open('word.txt').read()
